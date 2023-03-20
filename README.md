@@ -1,6 +1,6 @@
 # Spring Project "FIVE-MART"
 
-## 🗓️프로젝트 개요
+### 🗓️프로젝트 개요
 
 ![image-"일정표"](img/Schedule.png)
 
